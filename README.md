@@ -6,5 +6,7 @@ More information can be in our paper "CSDD: A Benchmark Dataset for Casting Surf
 
 The dataset can be downloaded in detection format here (https:), and in segmentation format here (https:). Please feel free to contact us (kaimao@stu.xjtu.edu.cn) to request the password for accessing the download links.
 
+
 If you use this dataset in scientific work, please cite our papers:
+
 K. Mao, P. Wei, Y. Wang, M. Liu, S. Wang, and  N. Zheng,  “CSDD: A benchmark dataset for casting surface defect detection and segmentation,” IEEE/CAA J. Autom. Sinica, vol. 12, no. 5, pp. 947–960, May 2025.  doi:  10.1109/JAS.2025.125228
