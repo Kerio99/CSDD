@@ -6,6 +6,13 @@ More information can be in our paper "CSDD: A Benchmark Dataset for Casting Surf
 
 The dataset can be downloaded in detection format here (https:), and in segmentation format here (https:). Please feel free to contact us (kaimao@stu.xjtu.edu.cn) to request the password for accessing the download links.
 
+Please note: **license terms & attribution**
+The data is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
+
+In particular, it is not allowed to use the dataset for commercial purposes. If you are unsure whether your application violates the non-commercial use clause of the license, please contact us.
+
+If you have any questions or comments about the dataset, feel free to contact us via email.
+
 
 If you use this dataset in scientific work, please cite our papers:
 
