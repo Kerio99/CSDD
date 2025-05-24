@@ -4,7 +4,7 @@
 
 More information can be in our paper "CSDD: A Benchmark Dataset for Casting Surface Defect Detection and Segmentation".
 
-**Please feel free to contact me (kaimao@stu.xjtu.edu.cn) to request the download link.**
+**Please feel free to contact me (kaimao@stu.xjtu.edu.cn) to request the download link. When making your request, please include your affiliated institution, personal information, and the intended use of the dataset.**
 
 Please note: **license terms & attribution**
 The data is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
